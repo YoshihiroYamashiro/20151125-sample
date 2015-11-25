@@ -9,6 +9,8 @@ JavaScriptとJavaの文法は基本的には似ていますが、思想も使わ
 |HTMLとの関係|     HTMLを操作可能     |                HTMLと完全に分離                 |
 |変数        |      変数の型は寛容    |            変数の型チェックが厳しい             |
 
+<br><br>
+
 ##JavaScriptの機能と特徴
 - *HTMLを操作可能*<br>
 JavaScriptは、HTMLの部品にアクセスすることができる。
