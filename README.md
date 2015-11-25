@@ -1,4 +1,4 @@
-# JavaScriptとJava
+# JavaScriptとは
 JacaScriptはHTMLファイル内に直接記述することができ、ブラウザの機能を利用することができるスクリプト言語です。
 
 ##JavaScriptとJavaの関係
